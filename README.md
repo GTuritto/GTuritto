@@ -1,7 +1,7 @@
 <p> 👋 Hi, I’m <b>Giuseppe Turitto</b> <br />
-         I have been involved in the software industry since the Y2K. I have been a Developer, an Architect, and now am Engineer Manager since 2012.<br/>
-         The thing I enjoy the most as an EM is being a Mentor and a Coach and seeing my Engineers grow to places they only imagined in their dreams. <br/>
-         I am becoming a good friend of chatGPT<br/>
+         &nbsp;&nbsp;&nbsp;&nbsp;I have been involved in the software industry since the Y2K. I have been a Developer, an Architect, and now am Engineer Manager since 2012.<br/>
+         &nbsp;&nbsp;&nbsp;&nbsp;The thing I enjoy the most as an EM is being a Mentor and a Coach and seeing my Engineers grow to places they only imagined in their dreams. <br/>
+         &nbsp;&nbsp;&nbsp;&nbsp;I am becoming a good friend of chatGPT<br/>
 </p>
 
 - 👀 I’m interested in so many things, but mostly Back End development, Virtualization of Infrastructures, and CI/CD Pipelines
