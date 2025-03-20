@@ -33,7 +33,9 @@ Embarking on a solopreneur adventure—pushing the boundaries of technology, inn
 ### 📫 Let's Connect
 
 If you're looking for a collaborative, results-driven leader with a proven track record in both traditional software engineering and next-gen AI innovations, I'd love to chat.  
-Reach me at: [giuseppe@turitto.com](mailto:giuseppe@turitto.com)
+Reach me at: 
+- [giuseppe@turitto.com](mailto:giuseppe@turitto.com), 
+- [https://www.linkedin.com/in/giuseppeturitto/](https://www.linkedin.com/in/giuseppeturitto/)
 
 
 Excited to be part of this evolving tech journey and becoming a good friend of chatGPT along the way!
