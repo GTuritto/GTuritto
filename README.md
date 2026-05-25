@@ -1,41 +1,32 @@
-# 👨‍💻 Giuseppe Turitto – Senior Tech Lead
+# 👋 Giuseppe Turitto
 
-Hi there! I'm Giuseppe, a seasoned professional in the software industry with over two decades of experience—from the Y2K era to today's cutting-edge technologies.
+**Engineering Manager @ Kiwi.com · Search Backend · AI-native systems**
 
+Two decades building backend and platform systems, the last decade leading engineering teams. Today I lead Search Backend at Kiwi.com, one of travel's highest-volume, highest-stakes domains. Alongside that, I build AI-native systems for knowledge, coordination, and writing.
 
-### 🔧 My Expertise
+I care about the same things in both contexts: strong fundamentals, honest tradeoffs, and systems that stay understandable as they scale.
 
-- **Backend Development:** Crafting scalable, efficient systems.
-- **Virtualization & Infrastructure:** Modernizing and streamlining IT environments.
-- **CI/CD Pipelines:** Automating and optimizing the development lifecycle.
+### 🛠️ What I work on
 
+- **Search backend at scale.** Reliable, high-volume services where latency and correctness both matter.
+- **AI-native engineering.** RAG, agents, MCP, and LangGraph applied to real workflows rather than demos.
+- **Knowledge systems.** Connecting documents, code, and memory into something a team can actually use.
+- **Engineering leadership.** Growing engineers, setting technical direction, and reducing friction in how teams ship.
 
-### 🤖 Emerging Technologies
+### 🚀 Built in the open
 
-- **Artificial Intelligence:** Integrating AI solutions to enhance software capabilities.
-- **Retrieval Augmented Generation (RAG):** Leveraging advanced retrieval techniques to boost generative AI performance.
-- **Prompt Engineering:** Crafting and refining prompts to optimize AI outputs.
-- **Agentic Systems:** Designing autonomous systems that can act independently and intelligently.
+- **[dandori](https://github.com/GTuritto/dandori)** : a post-Scrum coordination framework for AI-augmented engineering teams (CC BY-SA 4.0).
+- **[Agentic-Systems-Patterns](https://github.com/GTuritto/Agentic-Systems-Patterns)** : reusable patterns for building agentic systems.
+- **[AI-parrot](https://github.com/GTuritto/AI-parrot)** : a small LangGraph agent that ranks news and turns it into a TTS podcast.
+- **[RSS-MCPserver](https://github.com/GTuritto/RSS-MCPserver)** : an MCP server for fetching and parsing RSS/Atom feeds.
 
+Most of my current work, in knowledge retrieval, autonomous writing, and multi-agent systems, is still private while I shape it. More goes public as it matures.
 
-### 🚀 What I Bring
+### 🧰 Stack
 
-- **Technical Mastery:** Deep expertise from development to architecture, enriched with AI-driven innovations.
-- **Leadership & Mentorship:** Passionate about coaching teams and fostering both technical and creative growth.
-- **Product Mentality:** A strategic focus on delivering robust, market-leading solutions.
+`Python · TypeScript · C# · PostgreSQL · OpenSearch · Qdrant · LangGraph · MCP · RAG`
 
+### 📫 Reach me
 
-### 🌱 Current Venture
-
-Embarking on a solopreneur adventure—pushing the boundaries of technology, innovation, and intelligent systems.
-
-
-### 📫 Let's Connect
-
-If you're looking for a collaborative, results-driven leader with a proven track record in both traditional software engineering and next-gen AI innovations, I'd love to chat.  
-Reach me at: 
-- [giuseppe@turitto.com](mailto:giuseppe@turitto.com), 
-- [https://www.linkedin.com/in/giuseppeturitto/](https://www.linkedin.com/in/giuseppeturitto/)
-
-
-Excited to be part of this evolving tech journey and becoming a good friend of chatGPT along the way!
+- [giuseppe@turitto.com](mailto:giuseppe@turitto.com)
+- [LinkedIn](https://www.linkedin.com/in/giuseppeturitto/)
