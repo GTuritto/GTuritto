@@ -1,12 +1,12 @@
 # 👋 Giuseppe Turitto
 
-### Engineering Manager @ Kiwi.com · Search Backend · AI-native systems · Engineering leadership
+### Engineering Manager · Backend · AI-native systems · Engineering leadership
 
 Two decades building backend, platform, AI, and product systems. More than a decade leading engineering teams through ambiguity, scale, delivery pressure, and technical change.
 
 My work with AI and machine learning goes back to around 2010, before the current GenAI wave. Over the years, that has included a TensorFlow + IoT irrigation system for high-end farming in 2019, and an LLM-based engine in 2024 that became the initial core of a major product initiative.
 
-Today I lead Search Backend at Kiwi.com, one of travel's highest-volume and highest-stakes domains. Alongside that, I build AI-native systems for knowledge, coordination, engineering workflows, and writing.
+I build AI-native systems for knowledge, coordination, engineering workflows, and writing.
 
 I care about the same things across all of this work: strong fundamentals, honest tradeoffs, pragmatic architecture, and systems that remain understandable as they scale.
 
